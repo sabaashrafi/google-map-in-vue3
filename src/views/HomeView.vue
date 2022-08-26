@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    hi
+    <google-map />
   </main>
 </template>
